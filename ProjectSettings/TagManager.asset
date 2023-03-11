@@ -29,6 +29,8 @@ TagManager:
   - dakasignoutText
   - dakaonText
   - dakaoffText
+  - forgotButton
+  - signinButton
   layers:
   - Default
   - TransparentFX
